@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SC.v1.Common/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Localization.Abstractions": "7.0.9",
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "SC.v1.Common.dll": {}
+        },
+        "resources": {
+          "en/SC.v1.Common.resources.dll": {
+            "locale": "en"
+          },
+          "es/SC.v1.Common.resources.dll": {
+            "locale": "es"
+          }
+        }
+      },
+      "Microsoft.Extensions.Localization.Abstractions/7.0.9": {
+        "runtime": {
+          "lib/net7.0/Microsoft.Extensions.Localization.Abstractions.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.923.32110"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SC.v1.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Localization.Abstractions/7.0.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Fi5dgIgOeeaF1aK8aVuNNG+8RHeEl+MVXseLicc7AGGpS8FfxmDCbhtrR2XFr6Ed9S0JxcTWwZ2DLVC0dHF+hg==",
+      "path": "microsoft.extensions.localization.abstractions/7.0.9",
+      "hashPath": "microsoft.extensions.localization.abstractions.7.0.9.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    }
+  }
+}

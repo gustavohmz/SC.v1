@@ -1,0 +1,1154 @@
+2023-08-06 14:04:31.395 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 14:04:31.456 -05:00 [INF] Hosting environment: Development
+2023-08-06 14:04:31.460 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 14:04:31.465 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 14:04:31.952 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 488.4287ms
+2023-08-06 14:04:31.968 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 14:04:31.981 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 13.7315ms
+2023-08-06 14:04:32.000 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 14:04:32.107 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 107.2991ms
+2023-08-06 14:04:32.240 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 14:04:32.411 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 171.2690ms
+2023-08-06 14:04:56.303 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 14:04:56.312 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 9.9764ms
+2023-08-06 14:14:45.757 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 14:14:45.775 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 14:14:45.787 -05:00 [INF] Hosting environment: Development
+2023-08-06 14:14:45.789 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 14:14:46.055 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 14:14:46.055 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 282.4982ms
+2023-08-06 14:14:46.063 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 4.1345ms
+2023-08-06 14:14:46.072 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 14:14:46.111 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 38.5708ms
+2023-08-06 14:14:46.257 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 14:14:46.372 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 114.4579ms
+2023-08-06 14:15:37.199 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 14:15:37.208 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 9.4517ms
+2023-08-06 14:20:17.151 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 14:20:17.166 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 14:20:17.178 -05:00 [INF] Hosting environment: Development
+2023-08-06 14:20:17.180 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 14:20:17.421 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 14:20:17.422 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 257.5527ms
+2023-08-06 14:20:17.428 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 3.3381ms
+2023-08-06 14:20:17.437 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 14:20:17.483 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 45.2477ms
+2023-08-06 14:20:17.551 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 14:20:17.663 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 111.8389ms
+2023-08-06 14:20:23.896 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 14:20:23.906 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 10.5826ms
+2023-08-06 18:06:44.031 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 18:06:44.086 -05:00 [INF] Hosting environment: Development
+2023-08-06 18:06:44.088 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 18:06:44.089 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 18:06:44.550 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 18:06:44.551 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 463.7820ms
+2023-08-06 18:06:44.559 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 4.6619ms
+2023-08-06 18:06:44.572 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 18:06:45.085 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 513.3622ms
+2023-08-06 18:06:45.145 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 18:06:45.285 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 136.7632ms
+2023-08-06 18:06:47.892 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 18:06:47.903 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 11.1747ms
+2023-08-06 18:10:58.662 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 18:10:58.682 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 18:10:58.702 -05:00 [INF] Hosting environment: Development
+2023-08-06 18:10:58.703 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 18:10:58.997 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 18:10:58.998 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 319.9890ms
+2023-08-06 18:10:59.005 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 4.2955ms
+2023-08-06 18:10:59.016 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 18:10:59.063 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 47.4243ms
+2023-08-06 18:10:59.161 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 18:10:59.316 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 154.9455ms
+2023-08-06 18:11:11.029 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 18:11:11.041 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 8.7500ms
+2023-08-06 18:14:29.643 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 18:14:29.664 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 18:14:29.676 -05:00 [INF] Hosting environment: Development
+2023-08-06 18:14:29.678 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 18:14:29.950 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 18:14:29.951 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 289.1702ms
+2023-08-06 18:14:29.958 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 3.2352ms
+2023-08-06 18:14:29.968 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 18:14:30.008 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 40.0540ms
+2023-08-06 18:14:30.065 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 18:14:30.192 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 127.6228ms
+2023-08-06 18:14:32.239 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 18:14:32.254 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 14.7971ms
+2023-08-06 18:18:30.494 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 18:18:30.511 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 18:18:30.524 -05:00 [INF] Hosting environment: Development
+2023-08-06 18:18:30.526 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 18:18:30.792 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 281.6334ms
+2023-08-06 18:18:30.794 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 18:18:30.802 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 3.9277ms
+2023-08-06 18:18:30.815 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 18:18:30.859 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 43.8645ms
+2023-08-06 18:18:30.931 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 18:18:31.056 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 124.5435ms
+2023-08-06 18:18:32.610 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 18:18:32.618 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 8.3575ms
+2023-08-06 18:20:17.663 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 18:20:17.680 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 18:20:17.694 -05:00 [INF] Hosting environment: Development
+2023-08-06 18:20:17.696 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 18:20:17.983 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 18:20:17.983 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 305.3098ms
+2023-08-06 18:20:17.992 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 4.6526ms
+2023-08-06 18:20:17.993 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 18:20:18.040 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 47.0107ms
+2023-08-06 18:20:18.104 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 18:20:18.217 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 114.0165ms
+2023-08-06 18:20:20.128 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 18:20:20.135 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 7.1832ms
+2023-08-06 18:49:38.077 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 18:49:38.099 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 18:49:38.110 -05:00 [INF] Hosting environment: Development
+2023-08-06 18:49:38.113 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 18:49:38.274 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Filters.RequestExample' while attempting to activate 'Swashbuckle.AspNetCore.Filters.ExamplesOperationFilter'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.CreateFilter[TFilter](FilterDescriptor filterDescriptor)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.<>c__DisplayClass4_0.<Configure>b__2(FilterDescriptor filterDescriptor)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.Configure(SwaggerGeneratorOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.UnnamedOptionsManager`1.get_Value()
+   at Microsoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.<>c.<AddSwaggerGen>b__0_1(IServiceProvider s)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass2_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at lambda_method2(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-08-06 18:49:38.424 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 500 - text/html;+charset=utf-8 329.1125ms
+2023-08-06 18:49:38.427 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 18:49:38.427 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 18:49:38.443 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 9.8627ms
+2023-08-06 18:49:38.484 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 56.3067ms
+2023-08-06 18:49:38.548 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/favicon.ico - -
+2023-08-06 18:49:38.554 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Filters.RequestExample' while attempting to activate 'Swashbuckle.AspNetCore.Filters.ExamplesOperationFilter'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.CreateFilter[TFilter](FilterDescriptor filterDescriptor)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.<>c__DisplayClass4_0.<Configure>b__2(FilterDescriptor filterDescriptor)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.Configure(SwaggerGeneratorOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.UnnamedOptionsManager`1.get_Value()
+   at Microsoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.<>c.<AddSwaggerGen>b__0_1(IServiceProvider s)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass2_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at lambda_method2(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-08-06 18:49:38.563 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/favicon.ico - - - 500 - text/plain;+charset=utf-8 14.6474ms
+2023-08-06 18:50:07.533 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 18:50:07.566 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 18:50:07.570 -05:00 [INF] Hosting environment: Development
+2023-08-06 18:50:07.573 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 18:50:07.828 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 18:50:07.829 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 264.6426ms
+2023-08-06 18:50:07.835 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 3.4282ms
+2023-08-06 18:50:07.846 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 18:50:07.882 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 35.7393ms
+2023-08-06 18:50:07.954 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 18:50:08.068 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 113.7687ms
+2023-08-06 18:50:09.399 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 18:50:09.408 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 9.5756ms
+2023-08-06 19:12:23.551 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 19:12:23.571 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 19:12:23.583 -05:00 [INF] Hosting environment: Development
+2023-08-06 19:12:23.584 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 19:12:23.711 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Filters.RequestExample' while attempting to activate 'Swashbuckle.AspNetCore.Filters.ExamplesOperationFilter'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.CreateFilter[TFilter](FilterDescriptor filterDescriptor)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.<>c__DisplayClass4_0.<Configure>b__2(FilterDescriptor filterDescriptor)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.Configure(SwaggerGeneratorOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.UnnamedOptionsManager`1.get_Value()
+   at Microsoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.<>c.<AddSwaggerGen>b__0_1(IServiceProvider s)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass2_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at lambda_method2(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-08-06 19:12:23.845 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 500 - text/html;+charset=utf-8 276.5672ms
+2023-08-06 19:12:23.850 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 19:12:23.850 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 19:12:23.866 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 7.7124ms
+2023-08-06 19:12:23.900 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 49.2941ms
+2023-08-06 19:12:23.949 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/favicon.ico - -
+2023-08-06 19:12:23.954 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Filters.RequestExample' while attempting to activate 'Swashbuckle.AspNetCore.Filters.ExamplesOperationFilter'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.CreateFilter[TFilter](FilterDescriptor filterDescriptor)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.<>c__DisplayClass4_0.<Configure>b__2(FilterDescriptor filterDescriptor)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.Configure(SwaggerGeneratorOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.UnnamedOptionsManager`1.get_Value()
+   at Microsoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.<>c.<AddSwaggerGen>b__0_1(IServiceProvider s)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass2_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at lambda_method2(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-08-06 19:12:23.964 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/favicon.ico - - - 500 - text/plain;+charset=utf-8 13.8842ms
+2023-08-06 19:12:59.355 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 19:12:59.378 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 19:12:59.390 -05:00 [INF] Hosting environment: Development
+2023-08-06 19:12:59.392 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 19:12:59.680 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 305.0100ms
+2023-08-06 19:12:59.689 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 19:12:59.697 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 19:12:59.697 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 4.1075ms
+2023-08-06 19:12:59.745 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 48.3123ms
+2023-08-06 19:12:59.811 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 19:12:59.935 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 123.1972ms
+2023-08-06 19:13:47.826 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 19:13:47.835 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 12.5515ms
+2023-08-06 19:15:35.028 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 19:15:35.047 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 19:15:35.063 -05:00 [INF] Hosting environment: Development
+2023-08-06 19:15:35.064 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 19:15:35.202 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Filters.RequestExample' while attempting to activate 'Swashbuckle.AspNetCore.Filters.ExamplesOperationFilter'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.CreateFilter[TFilter](FilterDescriptor filterDescriptor)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.<>c__DisplayClass4_0.<Configure>b__2(FilterDescriptor filterDescriptor)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.Configure(SwaggerGeneratorOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.UnnamedOptionsManager`1.get_Value()
+   at Microsoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.<>c.<AddSwaggerGen>b__0_1(IServiceProvider s)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass2_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at lambda_method2(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-08-06 19:15:35.341 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 500 - text/html;+charset=utf-8 295.7412ms
+2023-08-06 19:15:35.344 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 19:15:35.349 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 19:15:35.365 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 11.8597ms
+2023-08-06 19:15:35.402 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 57.7963ms
+2023-08-06 19:15:35.464 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/favicon.ico - -
+2023-08-06 19:15:35.469 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Filters.RequestExample' while attempting to activate 'Swashbuckle.AspNetCore.Filters.ExamplesOperationFilter'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.CreateFilter[TFilter](FilterDescriptor filterDescriptor)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.<>c__DisplayClass4_0.<Configure>b__2(FilterDescriptor filterDescriptor)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.Configure(SwaggerGeneratorOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.UnnamedOptionsManager`1.get_Value()
+   at Microsoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.<>c.<AddSwaggerGen>b__0_1(IServiceProvider s)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass2_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at lambda_method2(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-08-06 19:15:35.479 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/favicon.ico - - - 500 - text/plain;+charset=utf-8 14.4539ms
+2023-08-06 19:21:41.560 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 19:21:41.576 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 19:21:41.592 -05:00 [INF] Hosting environment: Development
+2023-08-06 19:21:41.594 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 19:21:41.724 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Filters.RequestExample' while attempting to activate 'Swashbuckle.AspNetCore.Filters.ExamplesOperationFilter'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.CreateFilter[TFilter](FilterDescriptor filterDescriptor)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.<>c__DisplayClass4_0.<Configure>b__2(FilterDescriptor filterDescriptor)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.Configure(SwaggerGeneratorOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.UnnamedOptionsManager`1.get_Value()
+   at Microsoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.<>c.<AddSwaggerGen>b__0_1(IServiceProvider s)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass2_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at lambda_method2(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-08-06 19:21:41.870 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 500 - text/html;+charset=utf-8 294.7327ms
+2023-08-06 19:21:41.872 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 19:21:41.872 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 19:21:41.887 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 9.7346ms
+2023-08-06 19:21:41.922 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 49.7144ms
+2023-08-06 19:21:41.980 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/favicon.ico - -
+2023-08-06 19:21:41.986 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Filters.RequestExample' while attempting to activate 'Swashbuckle.AspNetCore.Filters.ExamplesOperationFilter'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.CreateFilter[TFilter](FilterDescriptor filterDescriptor)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.<>c__DisplayClass4_0.<Configure>b__2(FilterDescriptor filterDescriptor)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.Configure(SwaggerGeneratorOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.UnnamedOptionsManager`1.get_Value()
+   at Microsoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.<>c.<AddSwaggerGen>b__0_1(IServiceProvider s)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass2_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at lambda_method2(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-08-06 19:21:41.994 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/favicon.ico - - - 500 - text/plain;+charset=utf-8 13.9765ms
+2023-08-06 19:23:18.088 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 19:23:18.107 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 19:23:18.121 -05:00 [INF] Hosting environment: Development
+2023-08-06 19:23:18.123 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 19:23:18.238 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Filters.RequestExample' while attempting to activate 'Swashbuckle.AspNetCore.Filters.ExamplesOperationFilter'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.CreateFilter[TFilter](FilterDescriptor filterDescriptor)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.<>c__DisplayClass4_0.<Configure>b__2(FilterDescriptor filterDescriptor)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.Configure(SwaggerGeneratorOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.UnnamedOptionsManager`1.get_Value()
+   at Microsoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.<>c.<AddSwaggerGen>b__0_1(IServiceProvider s)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass2_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at lambda_method2(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-08-06 19:23:18.375 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 500 - text/html;+charset=utf-8 269.2636ms
+2023-08-06 19:23:18.378 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 19:23:18.385 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 19:23:18.400 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 11.7043ms
+2023-08-06 19:23:18.431 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 53.6907ms
+2023-08-06 19:23:18.486 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/favicon.ico - -
+2023-08-06 19:23:18.491 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Filters.RequestExample' while attempting to activate 'Swashbuckle.AspNetCore.Filters.ExamplesOperationFilter'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.CreateFilter[TFilter](FilterDescriptor filterDescriptor)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.<>c__DisplayClass4_0.<Configure>b__2(FilterDescriptor filterDescriptor)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions.Configure(SwaggerGeneratorOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.UnnamedOptionsManager`1.get_Value()
+   at Microsoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.<>c.<AddSwaggerGen>b__0_1(IServiceProvider s)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass2_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at lambda_method2(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-08-06 19:23:18.501 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/favicon.ico - - - 500 - text/plain;+charset=utf-8 14.2941ms
+2023-08-06 19:24:51.371 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 19:24:51.388 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 19:24:51.402 -05:00 [INF] Hosting environment: Development
+2023-08-06 19:24:51.404 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 19:24:51.695 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 19:24:51.696 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 302.4114ms
+2023-08-06 19:24:51.704 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 4.8433ms
+2023-08-06 19:24:51.706 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 19:24:51.749 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 42.5270ms
+2023-08-06 19:24:51.818 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 19:24:51.952 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 134.3872ms
+2023-08-06 19:29:02.277 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 19:29:02.287 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 11.6753ms
+2023-08-06 19:29:18.012 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 19:29:18.028 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 19:29:18.042 -05:00 [INF] Hosting environment: Development
+2023-08-06 19:29:18.044 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 19:29:18.316 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 19:29:18.318 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 292.4014ms
+2023-08-06 19:29:18.325 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 4.1394ms
+2023-08-06 19:29:18.336 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 19:29:18.376 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 40.4446ms
+2023-08-06 19:29:18.448 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 19:29:18.582 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 134.3346ms
+2023-08-06 19:29:20.164 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 19:29:20.173 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 8.8202ms
+2023-08-06 19:30:03.530 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 19:30:03.547 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 19:30:03.562 -05:00 [INF] Hosting environment: Development
+2023-08-06 19:30:03.564 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 19:30:03.840 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 19:30:03.841 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 295.3247ms
+2023-08-06 19:30:03.848 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 4.3164ms
+2023-08-06 19:30:03.856 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 19:30:03.891 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 34.6107ms
+2023-08-06 19:30:03.960 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 19:30:04.079 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 118.8976ms
+2023-08-06 19:30:05.854 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 19:30:05.861 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 7.6542ms
+2023-08-06 19:42:05.834 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 19:42:05.857 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 19:42:05.867 -05:00 [INF] Hosting environment: Development
+2023-08-06 19:42:05.869 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 19:42:06.152 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 19:42:06.152 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 291.6752ms
+2023-08-06 19:42:06.161 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 3.9144ms
+2023-08-06 19:42:06.167 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 19:42:06.208 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 41.6188ms
+2023-08-06 19:42:06.279 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 19:42:06.436 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 157.0442ms
+2023-08-06 19:42:10.189 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 19:42:10.200 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 11.0631ms
+2023-08-06 19:47:00.614 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 19:47:00.634 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 19:47:00.646 -05:00 [INF] Hosting environment: Development
+2023-08-06 19:47:00.648 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 19:47:00.900 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 269.8668ms
+2023-08-06 19:47:00.920 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 19:47:00.922 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 19:47:00.929 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 5.5617ms
+2023-08-06 19:47:00.965 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 42.2491ms
+2023-08-06 19:47:01.033 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 19:47:01.139 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 105.9761ms
+2023-08-06 19:47:17.831 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 19:47:17.843 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 12.3364ms
+2023-08-06 19:54:07.127 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 19:54:07.150 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 19:54:07.166 -05:00 [INF] Hosting environment: Development
+2023-08-06 19:54:07.168 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 19:54:07.484 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 19:54:07.486 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 340.0329ms
+2023-08-06 19:54:07.493 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 3.9905ms
+2023-08-06 19:54:07.500 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 19:54:07.542 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 42.0336ms
+2023-08-06 19:54:07.604 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 19:54:07.729 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 124.6413ms
+2023-08-06 19:54:09.689 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 19:54:09.698 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 8.7727ms
+2023-08-06 22:15:14.956 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 22:15:14.978 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 22:15:14.989 -05:00 [INF] Hosting environment: Development
+2023-08-06 22:15:14.991 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 22:15:15.310 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 22:15:15.311 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 334.6086ms
+2023-08-06 22:15:15.319 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 4.7686ms
+2023-08-06 22:15:15.327 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 22:15:15.373 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 45.5312ms
+2023-08-06 22:15:15.437 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 22:15:15.557 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 119.4119ms
+2023-08-06 22:16:06.486 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 22:16:06.498 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 44.8289ms
+2023-08-06 22:29:25.420 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 22:29:25.439 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 22:29:25.451 -05:00 [INF] Hosting environment: Development
+2023-08-06 22:29:25.453 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 22:29:25.714 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 22:29:25.716 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 279.6418ms
+2023-08-06 22:29:25.727 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 6.9666ms
+2023-08-06 22:29:25.735 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 22:29:25.775 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 40.2929ms
+2023-08-06 22:29:25.858 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 22:29:26.014 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 156.0272ms
+2023-08-06 22:29:28.056 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 22:29:28.064 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 8.4792ms
+2023-08-06 22:38:39.891 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 22:38:39.910 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 22:38:39.946 -05:00 [INF] Hosting environment: Development
+2023-08-06 22:38:39.948 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 22:38:40.252 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 22:38:40.253 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 346.0743ms
+2023-08-06 22:38:40.259 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 3.9858ms
+2023-08-06 22:38:40.270 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 22:38:40.310 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 39.3812ms
+2023-08-06 22:38:40.385 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 22:38:40.524 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 139.2011ms
+2023-08-06 22:39:47.592 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 22:39:47.613 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 22:39:47.624 -05:00 [INF] Hosting environment: Development
+2023-08-06 22:39:47.626 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 22:39:47.897 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 22:39:47.898 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 287.6063ms
+2023-08-06 22:39:47.905 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 4.6278ms
+2023-08-06 22:39:47.914 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 22:39:47.961 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 47.0179ms
+2023-08-06 22:39:48.033 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 22:39:48.141 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 107.4147ms
+2023-08-06 22:40:41.261 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 22:40:41.284 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 22:40:41.296 -05:00 [INF] Hosting environment: Development
+2023-08-06 22:40:41.297 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 22:40:41.618 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 22:40:41.620 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 338.7133ms
+2023-08-06 22:40:41.626 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 4.0940ms
+2023-08-06 22:40:41.638 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 22:40:41.681 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 43.0717ms
+2023-08-06 22:40:41.749 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 22:40:41.872 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 122.7960ms
+2023-08-06 22:41:09.186 -05:00 [INF] Request starting HTTP/2 POST https://localhost:44389/api/SignUp application/json 67
+2023-08-06 22:41:09.192 -05:00 [INF] CORS policy execution successful.
+2023-08-06 22:41:09.200 -05:00 [INF] Executing endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-06 22:41:09.235 -05:00 [INF] Route matched with {action = "SignUpUser", controller = "SignUp"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] SignUpUser(SC.v1.Core.DTOs.Requests.SignUpRequestDto) on controller SC.v1.Presentation.Controllers.SignUpController (SC.v1.Presentation).
+2023-08-06 22:41:09.243 -05:00 [INF] Executed action SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation) in 4.6442ms
+2023-08-06 22:41:09.245 -05:00 [INF] Executed endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-06 22:41:09.332 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'SC.v1.Core.Implementations.Commands.ISignUp' while attempting to activate 'SC.v1.Presentation.Controllers.SignUpController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method10(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.ReDoc.ReDocMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-08-06 22:41:09.337 -05:00 [INF] Request finished HTTP/2 POST https://localhost:44389/api/SignUp application/json 67 - 500 - text/plain;+charset=utf-8 151.4439ms
+2023-08-06 22:41:10.823 -05:00 [INF] Request starting HTTP/2 POST https://localhost:44389/api/SignUp application/json 67
+2023-08-06 22:41:10.832 -05:00 [INF] CORS policy execution successful.
+2023-08-06 22:41:10.836 -05:00 [INF] Executing endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-06 22:41:10.838 -05:00 [INF] Route matched with {action = "SignUpUser", controller = "SignUp"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] SignUpUser(SC.v1.Core.DTOs.Requests.SignUpRequestDto) on controller SC.v1.Presentation.Controllers.SignUpController (SC.v1.Presentation).
+2023-08-06 22:41:10.839 -05:00 [INF] Executed action SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation) in 0.508ms
+2023-08-06 22:41:10.839 -05:00 [INF] Executed endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-06 22:41:10.843 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'SC.v1.Core.Implementations.Commands.ISignUp' while attempting to activate 'SC.v1.Presentation.Controllers.SignUpController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method10(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.ReDoc.ReDocMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-08-06 22:41:10.845 -05:00 [INF] Request finished HTTP/2 POST https://localhost:44389/api/SignUp application/json 67 - 500 - text/plain;+charset=utf-8 22.3599ms
+2023-08-06 22:48:22.381 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 22:48:22.401 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 22:48:22.415 -05:00 [INF] Hosting environment: Development
+2023-08-06 22:48:22.417 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 22:48:22.703 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 22:48:22.703 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 297.8283ms
+2023-08-06 22:48:22.711 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 3.8974ms
+2023-08-06 22:48:22.720 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 22:48:22.767 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 46.2232ms
+2023-08-06 22:48:22.834 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 22:48:22.959 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 124.9512ms
+2023-08-06 22:48:55.470 -05:00 [INF] Request starting HTTP/2 POST https://localhost:44389/api/SignUp application/json 66
+2023-08-06 22:48:55.478 -05:00 [INF] CORS policy execution successful.
+2023-08-06 22:48:55.483 -05:00 [INF] Executing endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-06 22:48:55.508 -05:00 [INF] Route matched with {action = "SignUpUser", controller = "SignUp"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] SignUpUser(SC.v1.Core.DTOs.Requests.SignUpRequestDto) on controller SC.v1.Presentation.Controllers.SignUpController (SC.v1.Presentation).
+2023-08-06 22:48:57.129 -05:00 [INF] Executed DbCommand (26ms) [Parameters=[@__username_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.user_id, u.company_id, u.password_hash, u.password_salt, u.user_role_id, u.user_name
+FROM users AS u
+WHERE u.user_name = @__username_0
+LIMIT 1
+2023-08-06 22:48:57.366 -05:00 [ERR] Error al crear el usuario.
+System.Exception: Error al crear el usuario.
+ ---> System.InvalidOperationException: Ya existe un usuario con este nombre de usuario.
+   at SC.v1.Core.Implementations.Commands.SignUp.ExecuteAsync(SignUpRequestDto request) in C:\document\repos\SC.v1\SC.v1.Core\Implementations\Commands\SignUp.cs:line 31
+   --- End of inner exception stack trace ---
+   at SC.v1.Core.Implementations.Commands.SignUp.ExecuteAsync(SignUpRequestDto request) in C:\document\repos\SC.v1\SC.v1.Core\Implementations\Commands\SignUp.cs:line 60
+   at SC.v1.Presentation.Controllers.SignUpController.SignUpUser(SignUpRequestDto request) in C:\document\repos\SC.v1\SC.v1.Presentation\Controllers\SignUpController.cs:line 57
+2023-08-06 22:48:57.373 -05:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2023-08-06 22:48:57.379 -05:00 [INF] Executed action SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation) in 1867.6064ms
+2023-08-06 22:48:57.380 -05:00 [INF] Executed endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-06 22:48:57.386 -05:00 [INF] Request finished HTTP/2 POST https://localhost:44389/api/SignUp application/json 66 - 500 - text/plain;+charset=utf-8 1918.6852ms
+2023-08-06 22:50:39.958 -05:00 [INF] Request starting HTTP/2 POST https://localhost:44389/api/SignUp application/json 66
+2023-08-06 22:50:39.960 -05:00 [INF] CORS policy execution successful.
+2023-08-06 22:50:39.965 -05:00 [INF] Executing endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-06 22:50:39.968 -05:00 [INF] Route matched with {action = "SignUpUser", controller = "SignUp"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] SignUpUser(SC.v1.Core.DTOs.Requests.SignUpRequestDto) on controller SC.v1.Presentation.Controllers.SignUpController (SC.v1.Presentation).
+2023-08-06 22:50:47.015 -05:00 [INF] Executed DbCommand (10ms) [Parameters=[@__username_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.user_id, u.company_id, u.password_hash, u.password_salt, u.user_role_id, u.user_name
+FROM users AS u
+WHERE u.user_name = @__username_0
+LIMIT 1
+2023-08-06 22:51:35.191 -05:00 [ERR] Error al crear el usuario.
+System.Exception: Error al crear el usuario.
+ ---> System.InvalidOperationException: Ya existe un usuario con este nombre de usuario.
+   at SC.v1.Core.Implementations.Commands.SignUp.ExecuteAsync(SignUpRequestDto request) in C:\document\repos\SC.v1\SC.v1.Core\Implementations\Commands\SignUp.cs:line 31
+   --- End of inner exception stack trace ---
+   at SC.v1.Core.Implementations.Commands.SignUp.ExecuteAsync(SignUpRequestDto request) in C:\document\repos\SC.v1\SC.v1.Core\Implementations\Commands\SignUp.cs:line 60
+   at SC.v1.Presentation.Controllers.SignUpController.SignUpUser(SignUpRequestDto request) in C:\document\repos\SC.v1\SC.v1.Presentation\Controllers\SignUpController.cs:line 57
+2023-08-06 22:51:35.193 -05:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2023-08-06 22:51:35.194 -05:00 [INF] Executed action SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation) in 55226.4585ms
+2023-08-06 22:51:35.194 -05:00 [INF] Executed endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-06 22:51:35.199 -05:00 [INF] Request finished HTTP/2 POST https://localhost:44389/api/SignUp application/json 66 - 500 - text/plain;+charset=utf-8 55237.7266ms
+2023-08-06 22:51:37.806 -05:00 [INF] Request starting HTTP/2 POST https://localhost:44389/api/SignUp application/json 66
+2023-08-06 22:51:37.812 -05:00 [INF] CORS policy execution successful.
+2023-08-06 22:51:37.812 -05:00 [INF] Executing endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-06 22:51:37.812 -05:00 [INF] Route matched with {action = "SignUpUser", controller = "SignUp"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] SignUpUser(SC.v1.Core.DTOs.Requests.SignUpRequestDto) on controller SC.v1.Presentation.Controllers.SignUpController (SC.v1.Presentation).
+2023-08-06 22:51:41.286 -05:00 [INF] Executed DbCommand (8ms) [Parameters=[@__username_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.user_id, u.company_id, u.password_hash, u.password_salt, u.user_role_id, u.user_name
+FROM users AS u
+WHERE u.user_name = @__username_0
+LIMIT 1
+2023-08-06 22:52:12.747 -05:00 [INF] Executed DbCommand (6ms) [Parameters=[@__username_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.user_id, u.company_id, u.password_hash, u.password_salt, u.user_role_id, u.user_name
+FROM users AS u
+WHERE u.user_name = @__username_0
+LIMIT 1
+2023-08-06 22:54:12.151 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 22:54:12.169 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 22:54:12.183 -05:00 [INF] Hosting environment: Development
+2023-08-06 22:54:12.185 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 22:54:12.471 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 22:54:12.472 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 304.4884ms
+2023-08-06 22:54:12.478 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 3.3377ms
+2023-08-06 22:54:12.487 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 22:54:12.523 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 36.2123ms
+2023-08-06 22:54:12.594 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 22:54:12.749 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 152.4117ms
+2023-08-06 22:54:31.875 -05:00 [INF] Request starting HTTP/2 POST https://localhost:44389/api/SignUp application/json 66
+2023-08-06 22:54:31.883 -05:00 [INF] CORS policy execution successful.
+2023-08-06 22:54:31.888 -05:00 [INF] Executing endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-06 22:54:31.906 -05:00 [INF] Route matched with {action = "SignUpUser", controller = "SignUp"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] SignUpUser(SC.v1.Core.DTOs.Requests.SignUpRequestDto) on controller SC.v1.Presentation.Controllers.SignUpController (SC.v1.Presentation).
+2023-08-06 22:54:47.218 -05:00 [INF] Executed DbCommand (29ms) [Parameters=[@__username_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.user_id, u.company_id, u.password_hash, u.password_salt, u.user_role_id, u.user_name
+FROM users AS u
+WHERE u.user_name = @__username_0
+LIMIT 1
+2023-08-06 22:55:18.596 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 22:55:18.613 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 22:55:18.626 -05:00 [INF] Hosting environment: Development
+2023-08-06 22:55:18.628 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 22:55:18.923 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 22:55:18.924 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 312.3530ms
+2023-08-06 22:55:18.931 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 4.1480ms
+2023-08-06 22:55:18.936 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 22:55:18.979 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 42.2204ms
+2023-08-06 22:55:19.053 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 22:55:19.185 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 131.3265ms
+2023-08-06 22:55:38.382 -05:00 [INF] Request starting HTTP/2 POST https://localhost:44389/api/SignUp application/json 66
+2023-08-06 22:55:38.389 -05:00 [INF] CORS policy execution successful.
+2023-08-06 22:55:38.395 -05:00 [INF] Executing endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-06 22:55:38.411 -05:00 [INF] Route matched with {action = "SignUpUser", controller = "SignUp"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] SignUpUser(SC.v1.Core.DTOs.Requests.SignUpRequestDto) on controller SC.v1.Presentation.Controllers.SignUpController (SC.v1.Presentation).
+2023-08-06 22:55:43.536 -05:00 [INF] Executed DbCommand (27ms) [Parameters=[@__username_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.user_id, u.company_id, u.password_hash, u.password_salt, u.user_role_id, u.user_name
+FROM users AS u
+WHERE u.user_name = @__username_0
+LIMIT 1
+2023-08-06 22:55:52.721 -05:00 [ERR] Failed executing DbCommand (39ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?', @p2='?', @p3='?' (DbType = Int32), @p4='?'], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO users (company_id, password_hash, password_salt, user_role_id, user_name)
+VALUES (@p0, @p1, @p2, @p3, @p4)
+RETURNING user_id;
+2023-08-06 22:55:52.771 -05:00 [ERR] An exception occurred in the database while saving changes for context type 'SC.v1.Data.Domain.Models.MyCompanyContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23502: el valor nulo en la columna «password_salt» de la relación «users» viola la restricción de no nulo
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|234_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23502
+    MessageText: el valor nulo en la columna «password_salt» de la relación «users» viola la restricción de no nulo
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: users
+    ColumnName: password_salt
+    File: execmain.c
+    Line: 1889
+    Routine: ExecConstraints
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23502: el valor nulo en la columna «password_salt» de la relación «users» viola la restricción de no nulo
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|234_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23502
+    MessageText: el valor nulo en la columna «password_salt» de la relación «users» viola la restricción de no nulo
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: users
+    ColumnName: password_salt
+    File: execmain.c
+    Line: 1889
+    Routine: ExecConstraints
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2023-08-06 23:08:13.679 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 23:08:13.698 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 23:08:13.710 -05:00 [INF] Hosting environment: Development
+2023-08-06 23:08:13.712 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 23:08:13.994 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 23:08:13.995 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 298.5226ms
+2023-08-06 23:08:14.003 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 5.4830ms
+2023-08-06 23:08:14.011 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 23:08:14.056 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 44.1747ms
+2023-08-06 23:08:14.130 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 23:08:14.272 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 141.8684ms
+2023-08-06 23:08:45.525 -05:00 [INF] Request starting HTTP/2 POST https://localhost:44389/api/SignUp application/json 66
+2023-08-06 23:08:45.530 -05:00 [INF] CORS policy execution successful.
+2023-08-06 23:08:45.535 -05:00 [INF] Executing endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-06 23:08:45.554 -05:00 [INF] Route matched with {action = "SignUpUser", controller = "SignUp"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] SignUpUser(SC.v1.Core.DTOs.Requests.SignUpRequestDto) on controller SC.v1.Presentation.Controllers.SignUpController (SC.v1.Presentation).
+2023-08-06 23:08:57.589 -05:00 [INF] Executed DbCommand (29ms) [Parameters=[@__username_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.user_id, u.company_id, u.password_hash, u.user_role_id, u.user_name
+FROM users AS u
+WHERE u.user_name = @__username_0
+LIMIT 1
+2023-08-06 23:09:05.521 -05:00 [ERR] Failed executing DbCommand (38ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?', @p2='?' (DbType = Int32), @p3='?'], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO users (company_id, password_hash, user_role_id, user_name)
+VALUES (@p0, @p1, @p2, @p3)
+RETURNING user_id;
+2023-08-06 23:09:05.569 -05:00 [ERR] An exception occurred in the database while saving changes for context type 'SC.v1.Data.Domain.Models.MyCompanyContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: inserción o actualización en la tabla «users» viola la llave foránea «users_company_id_fkey»
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|234_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: inserción o actualización en la tabla «users» viola la llave foránea «users_company_id_fkey»
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: users
+    ConstraintName: users_company_id_fkey
+    File: ri_triggers.c
+    Line: 2539
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: inserción o actualización en la tabla «users» viola la llave foránea «users_company_id_fkey»
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|234_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: inserción o actualización en la tabla «users» viola la llave foránea «users_company_id_fkey»
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: users
+    ConstraintName: users_company_id_fkey
+    File: ri_triggers.c
+    Line: 2539
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2023-08-06 23:12:32.870 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 23:12:32.888 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 23:12:32.904 -05:00 [INF] Hosting environment: Development
+2023-08-06 23:12:32.907 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 23:12:33.205 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 23:12:33.207 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 319.9884ms
+2023-08-06 23:12:33.213 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 3.8209ms
+2023-08-06 23:12:33.224 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 23:12:33.266 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 42.7269ms
+2023-08-06 23:12:33.340 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 23:12:33.470 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 126.4149ms
+2023-08-06 23:12:53.529 -05:00 [INF] Request starting HTTP/2 POST https://localhost:44389/api/SignUp application/json 66
+2023-08-06 23:12:53.538 -05:00 [INF] CORS policy execution successful.
+2023-08-06 23:12:53.544 -05:00 [INF] Executing endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-06 23:12:53.561 -05:00 [INF] Route matched with {action = "SignUpUser", controller = "SignUp"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] SignUpUser(SC.v1.Core.DTOs.Requests.SignUpRequestDto) on controller SC.v1.Presentation.Controllers.SignUpController (SC.v1.Presentation).
+2023-08-06 23:13:00.557 -05:00 [INF] Executed DbCommand (31ms) [Parameters=[@__username_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.user_id, u.company_id, u.password_hash, u.user_role_id, u.user_name
+FROM users AS u
+WHERE u.user_name = @__username_0
+LIMIT 1
+2023-08-06 23:13:00.943 -05:00 [ERR] Failed executing DbCommand (14ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?', @p2='?' (DbType = Int32), @p3='?'], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO users (company_id, password_hash, user_role_id, user_name)
+VALUES (@p0, @p1, @p2, @p3)
+RETURNING user_id;
+2023-08-06 23:13:00.994 -05:00 [ERR] An exception occurred in the database while saving changes for context type 'SC.v1.Data.Domain.Models.MyCompanyContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: inserción o actualización en la tabla «users» viola la llave foránea «users_user_role_id_fkey»
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|234_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: inserción o actualización en la tabla «users» viola la llave foránea «users_user_role_id_fkey»
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: users
+    ConstraintName: users_user_role_id_fkey
+    File: ri_triggers.c
+    Line: 2539
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: inserción o actualización en la tabla «users» viola la llave foránea «users_user_role_id_fkey»
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|234_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: inserción o actualización en la tabla «users» viola la llave foránea «users_user_role_id_fkey»
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: users
+    ConstraintName: users_user_role_id_fkey
+    File: ri_triggers.c
+    Line: 2539
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2023-08-06 23:13:01.164 -05:00 [ERR] Error al crear el usuario.
+System.Exception: Error al crear el usuario.
+ ---> Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: inserción o actualización en la tabla «users» viola la llave foránea «users_user_role_id_fkey»
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|234_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: inserción o actualización en la tabla «users» viola la llave foránea «users_user_role_id_fkey»
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: users
+    ConstraintName: users_user_role_id_fkey
+    File: ri_triggers.c
+    Line: 2539
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at SC.v1.Data.Persistence.Repositories.Users.UserRepository.AddAsync(User user) in C:\document\repos\SC.v1\SC.v1.Data\SC.v1.Data.Persistence\Repositories\Users\UserRepository.cs:line 19
+   at SC.v1.Core.Implementations.Commands.SignUp.ExecuteAsync(SignUpRequestDto request) in C:\document\repos\SC.v1\SC.v1.Core\Implementations\Commands\SignUp.cs:line 46
+   --- End of inner exception stack trace ---
+   at SC.v1.Core.Implementations.Commands.SignUp.ExecuteAsync(SignUpRequestDto request) in C:\document\repos\SC.v1\SC.v1.Core\Implementations\Commands\SignUp.cs:line 60
+   at SC.v1.Presentation.Controllers.SignUpController.SignUpUser(SignUpRequestDto request) in C:\document\repos\SC.v1\SC.v1.Presentation\Controllers\SignUpController.cs:line 57
+2023-08-06 23:13:01.174 -05:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2023-08-06 23:13:01.179 -05:00 [INF] Executed action SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation) in 7614.3761ms
+2023-08-06 23:13:01.180 -05:00 [INF] Executed endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-06 23:13:01.186 -05:00 [INF] Request finished HTTP/2 POST https://localhost:44389/api/SignUp application/json 66 - 500 - text/plain;+charset=utf-8 7657.3563ms
+2023-08-06 23:13:08.406 -05:00 [INF] Request starting HTTP/2 POST https://localhost:44389/api/SignUp application/json 66
+2023-08-06 23:13:08.407 -05:00 [INF] CORS policy execution successful.
+2023-08-06 23:13:08.407 -05:00 [INF] Executing endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-06 23:13:08.408 -05:00 [INF] Route matched with {action = "SignUpUser", controller = "SignUp"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] SignUpUser(SC.v1.Core.DTOs.Requests.SignUpRequestDto) on controller SC.v1.Presentation.Controllers.SignUpController (SC.v1.Presentation).
+2023-08-06 23:13:16.763 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[@__username_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.user_id, u.company_id, u.password_hash, u.user_role_id, u.user_name
+FROM users AS u
+WHERE u.user_name = @__username_0
+LIMIT 1
+2023-08-06 23:13:22.811 -05:00 [ERR] Failed executing DbCommand (4ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?', @p2='?' (DbType = Int32), @p3='?'], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO users (company_id, password_hash, user_role_id, user_name)
+VALUES (@p0, @p1, @p2, @p3)
+RETURNING user_id;
+2023-08-06 23:13:22.824 -05:00 [ERR] An exception occurred in the database while saving changes for context type 'SC.v1.Data.Domain.Models.MyCompanyContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: inserción o actualización en la tabla «users» viola la llave foránea «users_user_role_id_fkey»
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|234_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: inserción o actualización en la tabla «users» viola la llave foránea «users_user_role_id_fkey»
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: users
+    ConstraintName: users_user_role_id_fkey
+    File: ri_triggers.c
+    Line: 2539
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: inserción o actualización en la tabla «users» viola la llave foránea «users_user_role_id_fkey»
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|234_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: inserción o actualización en la tabla «users» viola la llave foránea «users_user_role_id_fkey»
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: users
+    ConstraintName: users_user_role_id_fkey
+    File: ri_triggers.c
+    Line: 2539
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2023-08-06 23:18:54.462 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 23:18:54.480 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 23:18:54.493 -05:00 [INF] Hosting environment: Development
+2023-08-06 23:18:54.495 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 23:18:54.763 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 23:18:54.764 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 279.3638ms
+2023-08-06 23:18:54.771 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 3.9912ms
+2023-08-06 23:18:54.778 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 23:18:54.826 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 48.0158ms
+2023-08-06 23:18:54.892 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 23:18:55.017 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 124.6096ms
+2023-08-06 23:19:19.793 -05:00 [INF] Request starting HTTP/2 POST https://localhost:44389/api/SignUp application/json 66
+2023-08-06 23:19:19.835 -05:00 [INF] CORS policy execution successful.
+2023-08-06 23:19:19.840 -05:00 [INF] Executing endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-06 23:19:19.860 -05:00 [INF] Route matched with {action = "SignUpUser", controller = "SignUp"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] SignUpUser(SC.v1.Core.DTOs.Requests.SignUpRequestDto) on controller SC.v1.Presentation.Controllers.SignUpController (SC.v1.Presentation).
+2023-08-06 23:19:24.659 -05:00 [INF] Executed DbCommand (35ms) [Parameters=[@__username_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.user_id, u.company_id, u.password_hash, u.user_role_id, u.user_name
+FROM users AS u
+WHERE u.user_name = @__username_0
+LIMIT 1
+2023-08-06 23:19:28.864 -05:00 [INF] Executed DbCommand (30ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?', @p2='?' (DbType = Int32), @p3='?'], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO users (company_id, password_hash, user_role_id, user_name)
+VALUES (@p0, @p1, @p2, @p3)
+RETURNING user_id;
+2023-08-06 23:19:33.262 -05:00 [INF] Executing OkObjectResult, writing value of type 'SC.v1.Core.DTOs.Responses.SignUpResponseDto'.
+2023-08-06 23:19:33.269 -05:00 [INF] Executed action SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation) in 13406.1015ms
+2023-08-06 23:19:33.271 -05:00 [INF] Executed endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-06 23:19:33.279 -05:00 [INF] Request finished HTTP/2 POST https://localhost:44389/api/SignUp application/json 66 - 200 - application/json;+charset=utf-8 13485.6390ms
+2023-08-06 23:24:23.147 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-06 23:24:23.165 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-06 23:24:23.177 -05:00 [INF] Hosting environment: Development
+2023-08-06 23:24:23.179 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-06 23:24:23.463 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-06 23:24:23.464 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 300.0966ms
+2023-08-06 23:24:23.471 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 4.0863ms
+2023-08-06 23:24:23.482 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-06 23:24:23.529 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 47.6828ms
+2023-08-06 23:24:23.603 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-06 23:24:23.729 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 126.3768ms
+2023-08-06 23:24:40.976 -05:00 [INF] Request starting HTTP/2 POST https://localhost:44389/api/SignUp application/json 67
+2023-08-06 23:24:40.983 -05:00 [INF] CORS policy execution successful.
+2023-08-06 23:24:40.989 -05:00 [INF] Executing endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-06 23:24:41.006 -05:00 [INF] Route matched with {action = "SignUpUser", controller = "SignUp"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] SignUpUser(SC.v1.Core.DTOs.Requests.SignUpRequestDto) on controller SC.v1.Presentation.Controllers.SignUpController (SC.v1.Presentation).
+2023-08-06 23:24:47.881 -05:00 [INF] Executed DbCommand (35ms) [Parameters=[@__username_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.user_id, u.company_id, u.password_hash, u.user_role_id, u.user_name
+FROM users AS u
+WHERE u.user_name = @__username_0
+LIMIT 1
+2023-08-06 23:24:56.839 -05:00 [ERR] Error al crear el usuario.
+System.Exception: Error al crear el usuario.
+ ---> System.InvalidOperationException: Ya existe un usuario con este nombre de usuario.
+   at SC.v1.Core.Implementations.Commands.SignUp.ExecuteAsync(SignUpRequestDto request) in C:\document\repos\SC.v1\SC.v1.Core\Implementations\Commands\SignUp.cs:line 31
+   --- End of inner exception stack trace ---
+   at SC.v1.Core.Implementations.Commands.SignUp.ExecuteAsync(SignUpRequestDto request) in C:\document\repos\SC.v1\SC.v1.Core\Implementations\Commands\SignUp.cs:line 60
+   at SC.v1.Presentation.Controllers.SignUpController.SignUpUser(SignUpRequestDto request) in C:\document\repos\SC.v1\SC.v1.Presentation\Controllers\SignUpController.cs:line 57
+2023-08-06 23:24:56.845 -05:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2023-08-06 23:24:56.851 -05:00 [INF] Executed action SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation) in 15841.1645ms
+2023-08-06 23:24:56.852 -05:00 [INF] Executed endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-06 23:24:56.859 -05:00 [INF] Request finished HTTP/2 POST https://localhost:44389/api/SignUp application/json 67 - 500 - text/plain;+charset=utf-8 15882.4301ms

@@ -1,0 +1,288 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\document\\repos\\SC.v1\\SC.v1.Data\\SC.v1.Data.Persistence\\SC.v1.Data.Persistence.csproj": {}
+  },
+  "projects": {
+    "C:\\document\\repos\\SC.v1\\SC.v1.Common\\SC.v1.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\document\\repos\\SC.v1\\SC.v1.Common\\SC.v1.Common.csproj",
+        "projectName": "SC.v1.Common",
+        "projectPath": "C:\\document\\repos\\SC.v1\\SC.v1.Common\\SC.v1.Common.csproj",
+        "packagesPath": "C:\\Users\\gustavo.hernandez\\.nuget\\packages\\",
+        "outputPath": "C:\\document\\repos\\SC.v1\\SC.v1.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gustavo.hernandez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Localization.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\document\\repos\\SC.v1\\SC.v1.Core\\SC.v1.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\document\\repos\\SC.v1\\SC.v1.Core\\SC.v1.Core.csproj",
+        "projectName": "SC.v1.Core",
+        "projectPath": "C:\\document\\repos\\SC.v1\\SC.v1.Core\\SC.v1.Core.csproj",
+        "packagesPath": "C:\\Users\\gustavo.hernandez\\.nuget\\packages\\",
+        "outputPath": "C:\\document\\repos\\SC.v1\\SC.v1.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gustavo.hernandez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\document\\repos\\SC.v1\\SC.v1.Common\\SC.v1.Common.csproj": {
+                "projectPath": "C:\\document\\repos\\SC.v1\\SC.v1.Common\\SC.v1.Common.csproj"
+              },
+              "C:\\document\\repos\\SC.v1\\SC.v1.Data\\SC.v1.Data.Domain\\SC.v1.Data.Domain.csproj": {
+                "projectPath": "C:\\document\\repos\\SC.v1\\SC.v1.Data\\SC.v1.Data.Domain\\SC.v1.Data.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\document\\repos\\SC.v1\\SC.v1.Data\\SC.v1.Data.Domain\\SC.v1.Data.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\document\\repos\\SC.v1\\SC.v1.Data\\SC.v1.Data.Domain\\SC.v1.Data.Domain.csproj",
+        "projectName": "SC.v1.Data.Domain",
+        "projectPath": "C:\\document\\repos\\SC.v1\\SC.v1.Data\\SC.v1.Data.Domain\\SC.v1.Data.Domain.csproj",
+        "packagesPath": "C:\\Users\\gustavo.hernandez\\.nuget\\packages\\",
+        "outputPath": "C:\\document\\repos\\SC.v1\\SC.v1.Data\\SC.v1.Data.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gustavo.hernandez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\document\\repos\\SC.v1\\SC.v1.Data\\SC.v1.Data.Persistence\\SC.v1.Data.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\document\\repos\\SC.v1\\SC.v1.Data\\SC.v1.Data.Persistence\\SC.v1.Data.Persistence.csproj",
+        "projectName": "SC.v1.Data.Persistence",
+        "projectPath": "C:\\document\\repos\\SC.v1\\SC.v1.Data\\SC.v1.Data.Persistence\\SC.v1.Data.Persistence.csproj",
+        "packagesPath": "C:\\Users\\gustavo.hernandez\\.nuget\\packages\\",
+        "outputPath": "C:\\document\\repos\\SC.v1\\SC.v1.Data\\SC.v1.Data.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gustavo.hernandez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\document\\repos\\SC.v1\\SC.v1.Core\\SC.v1.Core.csproj": {
+                "projectPath": "C:\\document\\repos\\SC.v1\\SC.v1.Core\\SC.v1.Core.csproj"
+              },
+              "C:\\document\\repos\\SC.v1\\SC.v1.Data\\SC.v1.Data.Domain\\SC.v1.Data.Domain.csproj": {
+                "projectPath": "C:\\document\\repos\\SC.v1\\SC.v1.Data\\SC.v1.Data.Domain\\SC.v1.Data.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,426 @@
+2023-08-05 11:24:34.557 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-05 11:24:34.614 -05:00 [INF] Hosting environment: Development
+2023-08-05 11:24:34.617 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-05 11:24:34.620 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger - -
+2023-08-05 11:24:34.737 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-05 11:24:34.749 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger - - - 301 - - 134.6574ms
+2023-08-05 11:24:35.500 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 761.3573ms
+2023-08-05 11:24:35.507 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/swagger-ui-bundle.js - -
+2023-08-05 11:24:35.510 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-05 11:24:35.510 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/swagger-ui.css - -
+2023-08-05 11:24:35.511 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/swagger-ui-standalone-preset.js - -
+2023-08-05 11:24:35.520 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 15.2855ms
+2023-08-05 11:24:35.522 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-05 11:24:35.542 -05:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-08-05 11:24:35.542 -05:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-08-05 11:24:35.542 -05:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-08-05 11:24:35.545 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/swagger-ui.css - - - 200 144929 text/css 34.9871ms
+2023-08-05 11:24:35.559 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 48.3225ms
+2023-08-05 11:24:35.585 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 80.7332ms
+2023-08-05 11:24:35.997 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 474.9072ms
+2023-08-05 11:24:36.051 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-05 11:24:36.086 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/favicon-32x32.png - -
+2023-08-05 11:24:36.087 -05:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2023-08-05 11:24:36.088 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/favicon-32x32.png - - - 200 628 image/png 1.4624ms
+2023-08-05 11:24:36.225 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 174.4920ms
+2023-08-05 12:12:10.375 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-05 12:12:10.410 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-05 12:12:10.414 -05:00 [INF] Hosting environment: Development
+2023-08-05 12:12:10.416 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-05 12:12:10.685 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-05 12:12:10.686 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 278.2165ms
+2023-08-05 12:12:10.693 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 4.0491ms
+2023-08-05 12:12:10.700 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-05 12:12:10.746 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 45.9747ms
+2023-08-05 12:12:10.894 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-05 12:12:10.984 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 90.2452ms
+2023-08-05 12:32:23.535 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-05 12:32:23.570 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-05 12:32:23.582 -05:00 [INF] Hosting environment: Development
+2023-08-05 12:32:23.584 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-05 12:32:23.847 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-05 12:32:23.848 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 282.3761ms
+2023-08-05 12:32:23.855 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 3.7238ms
+2023-08-05 12:32:23.864 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-05 12:32:23.907 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 42.7483ms
+2023-08-05 12:32:23.966 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-05 12:32:24.067 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 100.9199ms
+2023-08-05 12:55:23.756 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-05 12:55:23.774 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-05 12:55:23.786 -05:00 [INF] Hosting environment: Development
+2023-08-05 12:55:23.789 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-05 12:55:24.017 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-05 12:55:24.018 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 246.5247ms
+2023-08-05 12:55:24.023 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 5.2799ms
+2023-08-05 12:55:24.030 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-05 12:55:24.079 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 48.8685ms
+2023-08-05 12:55:24.186 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-05 12:55:24.319 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 132.7078ms
+2023-08-05 13:02:01.305 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-05 13:02:01.328 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-05 13:02:01.343 -05:00 [INF] Hosting environment: Development
+2023-08-05 13:02:01.345 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-05 13:02:01.576 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 251.5976ms
+2023-08-05 13:02:01.576 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-05 13:02:01.584 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 3.2341ms
+2023-08-05 13:02:01.596 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-05 13:02:01.632 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 36.1920ms
+2023-08-05 13:02:01.708 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-05 13:02:01.803 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 95.1923ms
+2023-08-05 13:50:34.823 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-05 13:50:34.869 -05:00 [INF] Hosting environment: Development
+2023-08-05 13:50:34.898 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-05 13:50:34.899 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-05 13:50:35.220 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-05 13:50:35.221 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 355.0118ms
+2023-08-05 13:50:35.228 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 3.6772ms
+2023-08-05 13:50:35.240 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-05 13:50:35.288 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 48.2753ms
+2023-08-05 13:50:35.351 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-05 13:50:35.466 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 115.1367ms
+2023-08-05 13:51:29.297 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-05 13:51:29.317 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-05 13:51:29.327 -05:00 [INF] Hosting environment: Development
+2023-08-05 13:51:29.329 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-05 13:51:29.605 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-05 13:51:29.606 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 291.0839ms
+2023-08-05 13:51:29.614 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 3.6048ms
+2023-08-05 13:51:29.620 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-05 13:51:29.665 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 45.1239ms
+2023-08-05 13:51:29.722 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-05 13:51:29.831 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 108.5450ms
+2023-08-05 13:51:52.665 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-05 13:51:52.681 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-05 13:51:52.692 -05:00 [INF] Hosting environment: Development
+2023-08-05 13:51:52.694 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-05 13:51:52.934 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 253.8898ms
+2023-08-05 13:51:52.943 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-05 13:51:52.951 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 3.7542ms
+2023-08-05 13:51:52.960 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-05 13:51:53.001 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 41.8998ms
+2023-08-05 13:51:53.066 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-05 13:51:53.203 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 136.5584ms
+2023-08-05 17:43:32.240 -05:00 [INF] Executed DbCommand (22ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (SELECT 1 FROM pg_catalog.pg_class c JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace WHERE c.relname='__EFMigrationsHistory');
+2023-08-05 17:43:32.585 -05:00 [INF] Executed DbCommand (136ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "__EFMigrationsHistory" (
+    "MigrationId" character varying(150) NOT NULL,
+    "ProductVersion" character varying(32) NOT NULL,
+    CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY ("MigrationId")
+);
+2023-08-05 17:43:32.620 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (SELECT 1 FROM pg_catalog.pg_class c JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace WHERE c.relname='__EFMigrationsHistory');
+2023-08-05 17:43:32.625 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2023-08-05 17:43:32.637 -05:00 [INF] Applying migration '20230805224156_AddUserRolesAndCompany'.
+2023-08-05 17:43:32.721 -05:00 [ERR] Failed executing DbCommand (23ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE categories (
+    category_id integer GENERATED BY DEFAULT AS IDENTITY,
+    category_name character varying(100) NOT NULL,
+    CONSTRAINT categories_pkey PRIMARY KEY (category_id)
+);
+COMMENT ON TABLE categories IS 'Tabla para manejar categorías de productos';
+2023-08-05 17:45:24.927 -05:00 [INF] Executed DbCommand (19ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (SELECT 1 FROM pg_catalog.pg_class c JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace WHERE c.relname='__EFMigrationsHistory');
+2023-08-05 17:45:24.980 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (SELECT 1 FROM pg_catalog.pg_class c JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace WHERE c.relname='__EFMigrationsHistory');
+2023-08-05 17:45:24.993 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2023-08-05 17:45:25.006 -05:00 [INF] Applying migration '20230805224156_AddUserRolesAndCompany'.
+2023-08-05 17:45:25.073 -05:00 [ERR] Failed executing DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE categories (
+    category_id integer GENERATED BY DEFAULT AS IDENTITY,
+    category_name character varying(100) NOT NULL,
+    CONSTRAINT categories_pkey PRIMARY KEY (category_id)
+);
+COMMENT ON TABLE categories IS 'Tabla para manejar categorías de productos';
+2023-08-05 17:46:59.001 -05:00 [INF] Executed DbCommand (55ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+REVOKE CONNECT ON DATABASE "myCompany" FROM PUBLIC;
+SELECT pg_terminate_backend(pg_stat_activity.pid) FROM pg_stat_activity WHERE datname = 'myCompany';
+2023-08-05 17:47:00.246 -05:00 [INF] Executed DbCommand (1,223ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DROP DATABASE "myCompany";
+2023-08-05 17:47:18.907 -05:00 [INF] Executed DbCommand (1,263ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE DATABASE "myCompany";
+2023-08-05 17:47:19.421 -05:00 [INF] Executed DbCommand (122ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "__EFMigrationsHistory" (
+    "MigrationId" character varying(150) NOT NULL,
+    "ProductVersion" character varying(32) NOT NULL,
+    CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY ("MigrationId")
+);
+2023-08-05 17:47:19.464 -05:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (SELECT 1 FROM pg_catalog.pg_class c JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace WHERE c.relname='__EFMigrationsHistory');
+2023-08-05 17:47:19.468 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2023-08-05 17:47:19.482 -05:00 [INF] Applying migration '20230805224156_AddUserRolesAndCompany'.
+2023-08-05 17:47:19.563 -05:00 [INF] Executed DbCommand (33ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE categories (
+    category_id integer GENERATED BY DEFAULT AS IDENTITY,
+    category_name character varying(100) NOT NULL,
+    CONSTRAINT categories_pkey PRIMARY KEY (category_id)
+);
+COMMENT ON TABLE categories IS 'Tabla para manejar categorías de productos';
+2023-08-05 17:47:19.571 -05:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE colors (
+    color_id integer GENERATED BY DEFAULT AS IDENTITY,
+    color_name character varying(100) NOT NULL,
+    CONSTRAINT colors_pkey PRIMARY KEY (color_id)
+);
+COMMENT ON TABLE colors IS 'Tabla para manejar colores de productos';
+2023-08-05 17:47:19.584 -05:00 [INF] Executed DbCommand (13ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE company (
+    company_id integer GENERATED BY DEFAULT AS IDENTITY,
+    company_name character varying(100) NOT NULL,
+    company_address character varying(200) NOT NULL,
+    company_phone character varying(20) NOT NULL,
+    company_email character varying(100) NULL,
+    company_website character varying(100) NULL,
+    contact_person_name character varying(100) NULL,
+    contact_person_email character varying(100) NULL,
+    contact_person_phone character varying(20) NULL,
+    registration_number character varying(50) NULL,
+    tax_id character varying(50) NULL,
+    CONSTRAINT company_pkey PRIMARY KEY (company_id)
+);
+COMMENT ON TABLE company IS 'Tabla para manejar empresas';
+2023-08-05 17:47:19.589 -05:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE sizes (
+    size_id integer GENERATED BY DEFAULT AS IDENTITY,
+    size_name character varying(100) NOT NULL,
+    CONSTRAINT sizes_pkey PRIMARY KEY (size_id)
+);
+COMMENT ON TABLE sizes IS 'Tabla para manejar tallas de productos';
+2023-08-05 17:47:19.595 -05:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE third_parties (
+    third_party_id integer GENERATED BY DEFAULT AS IDENTITY,
+    third_party_name character varying(100) NOT NULL,
+    third_party_type character varying(50) NOT NULL,
+    id_type character varying(50) NULL,
+    id_number character varying(100) NULL,
+    CONSTRAINT third_parties_pkey PRIMARY KEY (third_party_id)
+);
+COMMENT ON TABLE third_parties IS 'Tabla para manejar terceros como clientes, proveedores y asesores';
+2023-08-05 17:47:19.600 -05:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE transaction_types (
+    type_id integer GENERATED BY DEFAULT AS IDENTITY,
+    type_name character varying(100) NOT NULL,
+    CONSTRAINT transaction_types_pkey PRIMARY KEY (type_id)
+);
+COMMENT ON TABLE transaction_types IS 'Tabla para manejar los diferentes tipos de transacciones';
+2023-08-05 17:47:19.606 -05:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE user_roles (
+    role_id integer GENERATED BY DEFAULT AS IDENTITY,
+    role_name character varying(50) NOT NULL,
+    CONSTRAINT user_roles_pkey PRIMARY KEY (role_id)
+);
+COMMENT ON TABLE user_roles IS 'Tabla para manejar los roles de usuario';
+2023-08-05 17:47:19.627 -05:00 [INF] Executed DbCommand (21ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE inventory (
+    product_id integer GENERATED BY DEFAULT AS IDENTITY,
+    product_name character varying(100) NOT NULL,
+    category_id integer NULL,
+    color_id integer NULL,
+    size_id integer NULL,
+    quantity integer NOT NULL,
+    CONSTRAINT inventory_pkey PRIMARY KEY (product_id),
+    CONSTRAINT inventory_category_id_fkey FOREIGN KEY (category_id) REFERENCES categories (category_id) ON DELETE CASCADE,
+    CONSTRAINT inventory_color_id_fkey FOREIGN KEY (color_id) REFERENCES colors (color_id) ON DELETE CASCADE,
+    CONSTRAINT inventory_size_id_fkey FOREIGN KEY (size_id) REFERENCES sizes (size_id) ON DELETE CASCADE
+);
+COMMENT ON TABLE inventory IS 'Tabla para manejar el inventario';
+2023-08-05 17:47:19.634 -05:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE users (
+    user_id integer GENERATED BY DEFAULT AS IDENTITY,
+    user_name character varying(50) NOT NULL,
+    password_hash character(64) NOT NULL,
+    password_salt character(64) NOT NULL,
+    user_role_id integer NOT NULL,
+    company_id integer NOT NULL,
+    CONSTRAINT users_pkey PRIMARY KEY (user_id),
+    CONSTRAINT users_company_id_fkey FOREIGN KEY (company_id) REFERENCES company (company_id) ON DELETE RESTRICT,
+    CONSTRAINT users_user_role_id_fkey FOREIGN KEY (user_role_id) REFERENCES user_roles (role_id) ON DELETE RESTRICT
+);
+COMMENT ON TABLE users IS 'Tabla para manejar usuarios y autenticación';
+2023-08-05 17:47:19.641 -05:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE transactions (
+    transaction_id integer GENERATED BY DEFAULT AS IDENTITY,
+    type_id integer NULL,
+    transaction_date date NOT NULL,
+    total_amount numeric(10,2) NOT NULL,
+    user_id integer NULL,
+    CONSTRAINT transactions_pkey PRIMARY KEY (transaction_id),
+    CONSTRAINT transactions_type_id_fkey FOREIGN KEY (type_id) REFERENCES transaction_types (type_id) ON DELETE CASCADE,
+    CONSTRAINT transactions_user_id_fkey FOREIGN KEY (user_id) REFERENCES users (user_id) ON DELETE CASCADE
+);
+COMMENT ON TABLE transactions IS 'Tabla para manejar las transacciones';
+2023-08-05 17:47:19.647 -05:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE electronic_invoices (
+    invoice_id integer GENERATED BY DEFAULT AS IDENTITY,
+    transaction_id integer NULL,
+    invoice_number character varying(100) NOT NULL,
+    issue_date date NOT NULL,
+    CONSTRAINT electronic_invoices_pkey PRIMARY KEY (invoice_id),
+    CONSTRAINT electronic_invoices_transaction_id_fkey FOREIGN KEY (transaction_id) REFERENCES transactions (transaction_id) ON DELETE CASCADE
+);
+COMMENT ON TABLE electronic_invoices IS 'Tabla para manejar facturas electrónicas';
+2023-08-05 17:47:19.658 -05:00 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE payroll (
+    payroll_id integer GENERATED BY DEFAULT AS IDENTITY,
+    transaction_id integer NULL,
+    payroll_date date NOT NULL,
+    CONSTRAINT payroll_pkey PRIMARY KEY (payroll_id),
+    CONSTRAINT payroll_transaction_id_fkey FOREIGN KEY (transaction_id) REFERENCES transactions (transaction_id) ON DELETE CASCADE
+);
+COMMENT ON TABLE payroll IS 'Tabla para manejar nómina';
+2023-08-05 17:47:19.666 -05:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE transaction_lines (
+    line_id integer GENERATED BY DEFAULT AS IDENTITY,
+    transaction_id integer NULL,
+    account_id integer NULL,
+    amount numeric(10,2) NOT NULL,
+    CONSTRAINT transaction_lines_pkey PRIMARY KEY (line_id),
+    CONSTRAINT transaction_lines_transaction_id_fkey FOREIGN KEY (transaction_id) REFERENCES transactions (transaction_id) ON DELETE CASCADE
+);
+COMMENT ON TABLE transaction_lines IS 'Tabla para manejar las líneas de las transacciones';
+2023-08-05 17:47:19.674 -05:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE electronic_invoice_items (
+    item_id integer GENERATED BY DEFAULT AS IDENTITY,
+    invoice_id integer NULL,
+    product_id integer NULL,
+    quantity integer NOT NULL,
+    unit_price numeric(10,2) NOT NULL,
+    CONSTRAINT electronic_invoice_items_pkey PRIMARY KEY (item_id),
+    CONSTRAINT electronic_invoice_items_invoice_id_fkey FOREIGN KEY (invoice_id) REFERENCES electronic_invoices (invoice_id) ON DELETE CASCADE,
+    CONSTRAINT electronic_invoice_items_product_id_fkey FOREIGN KEY (product_id) REFERENCES inventory (product_id) ON DELETE CASCADE
+);
+COMMENT ON TABLE electronic_invoice_items IS 'Tabla para manejar ítems de factura electrónica';
+2023-08-05 17:47:19.682 -05:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE payroll_items (
+    item_id integer GENERATED BY DEFAULT AS IDENTITY,
+    payroll_id integer NULL,
+    employee_id integer NULL,
+    amount numeric(10,2) NOT NULL,
+    CONSTRAINT payroll_items_pkey PRIMARY KEY (item_id),
+    CONSTRAINT payroll_items_employee_id_fkey FOREIGN KEY (employee_id) REFERENCES third_parties (third_party_id) ON DELETE CASCADE,
+    CONSTRAINT payroll_items_payroll_id_fkey FOREIGN KEY (payroll_id) REFERENCES payroll (payroll_id) ON DELETE CASCADE
+);
+COMMENT ON TABLE payroll_items IS 'Tabla para manejar ítems de nómina';
+2023-08-05 17:47:19.685 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX categories_category_name_key ON categories (category_name);
+2023-08-05 17:47:19.687 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX idx_categories_id ON categories (category_id);
+2023-08-05 17:47:19.690 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX colors_color_name_key ON colors (color_name);
+2023-08-05 17:47:19.693 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX idx_colors_id ON colors (color_id);
+2023-08-05 17:47:19.696 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX company_company_name_key ON company (company_name);
+2023-08-05 17:47:19.698 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX idx_electronic_invoice_items_id ON electronic_invoice_items (item_id);
+2023-08-05 17:47:19.700 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX "IX_electronic_invoice_items_invoice_id" ON electronic_invoice_items (invoice_id);
+2023-08-05 17:47:19.702 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX "IX_electronic_invoice_items_product_id" ON electronic_invoice_items (product_id);
+2023-08-05 17:47:19.705 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX electronic_invoices_invoice_number_key ON electronic_invoices (invoice_number);
+2023-08-05 17:47:19.708 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX idx_electronic_invoices_id ON electronic_invoices (invoice_id);
+2023-08-05 17:47:19.711 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX "IX_electronic_invoices_transaction_id" ON electronic_invoices (transaction_id);
+2023-08-05 17:47:19.714 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX idx_inventory_id ON inventory (product_id);
+2023-08-05 17:47:19.716 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX inventory_product_name_key ON inventory (product_name);
+2023-08-05 17:47:19.722 -05:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX "IX_inventory_category_id" ON inventory (category_id);
+2023-08-05 17:47:19.726 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX "IX_inventory_color_id" ON inventory (color_id);
+2023-08-05 17:47:19.728 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX "IX_inventory_size_id" ON inventory (size_id);
+2023-08-05 17:47:19.731 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX idx_payroll_id ON payroll (payroll_id);
+2023-08-05 17:47:19.733 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX "IX_payroll_transaction_id" ON payroll (transaction_id);
+2023-08-05 17:47:19.735 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX idx_payroll_items_id ON payroll_items (item_id);
+2023-08-05 17:47:19.737 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX "IX_payroll_items_employee_id" ON payroll_items (employee_id);
+2023-08-05 17:47:19.740 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX "IX_payroll_items_payroll_id" ON payroll_items (payroll_id);
+2023-08-05 17:47:19.742 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX idx_sizes_id ON sizes (size_id);
+2023-08-05 17:47:19.745 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX sizes_size_name_key ON sizes (size_name);
+2023-08-05 17:47:19.747 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX idx_third_parties_id ON third_parties (third_party_id);
+2023-08-05 17:47:19.750 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX third_parties_id_number_key ON third_parties (id_number);
+2023-08-05 17:47:19.753 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX idx_transaction_lines_id ON transaction_lines (line_id);
+2023-08-05 17:47:19.756 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX idx_transaction_lines_transaction_id ON transaction_lines (transaction_id);
+2023-08-05 17:47:19.759 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX idx_transaction_types_id ON transaction_types (type_id);
+2023-08-05 17:47:19.762 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX transaction_types_type_name_key ON transaction_types (type_name);
+2023-08-05 17:47:19.764 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX idx_transactions_id ON transactions (transaction_id);
+2023-08-05 17:47:19.766 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX idx_transactions_type_id ON transactions (type_id);
+2023-08-05 17:47:19.769 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX "IX_transactions_user_id" ON transactions (user_id);
+2023-08-05 17:47:19.772 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX user_roles_role_name_key ON user_roles (role_name);
+2023-08-05 17:47:19.775 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX idx_users_id ON users (user_id);
+2023-08-05 17:47:19.777 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX "IX_users_company_id" ON users (company_id);
+2023-08-05 17:47:19.779 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX "IX_users_user_role_id" ON users (user_role_id);
+2023-08-05 17:47:19.781 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX users_user_name_key ON users (user_name);
+2023-08-05 17:47:19.785 -05:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "__EFMigrationsHistory" ("MigrationId", "ProductVersion")
+VALUES ('20230805224156_AddUserRolesAndCompany', '7.0.5');
+2023-08-05 17:48:58.074 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-05 17:48:58.103 -05:00 [INF] Hosting environment: Development
+2023-08-05 17:48:58.105 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-05 17:48:58.106 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-05 17:48:58.398 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 296.3014ms
+2023-08-05 17:48:58.407 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-05 17:48:58.418 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 4.9759ms
+2023-08-05 17:48:58.432 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-05 17:48:58.483 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 50.3748ms
+2023-08-05 17:48:58.550 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-05 17:48:58.672 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 122.3266ms
+2023-08-05 17:49:09.231 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-05 17:49:09.240 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 8.8785ms
+2023-08-05 17:49:43.607 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-05 17:49:43.627 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-05 17:49:43.639 -05:00 [INF] Hosting environment: Development
+2023-08-05 17:49:43.641 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-05 17:49:43.906 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-05 17:49:43.906 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 276.0190ms
+2023-08-05 17:49:43.914 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 3.2517ms
+2023-08-05 17:49:43.915 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-05 17:49:43.962 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 47.2228ms
+2023-08-05 17:49:44.036 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-05 17:49:44.162 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 126.1316ms
+2023-08-05 18:21:02.678 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-05 18:21:02.708 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-05 18:21:02.713 -05:00 [INF] Hosting environment: Development
+2023-08-05 18:21:02.715 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-05 18:21:02.987 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-05 18:21:02.988 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 282.2650ms
+2023-08-05 18:21:02.995 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 4.5227ms
+2023-08-05 18:21:03.004 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-05 18:21:03.035 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 31.6018ms
+2023-08-05 18:21:03.128 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-05 18:21:03.263 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 134.3677ms
+2023-08-05 18:24:07.450 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-05 18:24:07.458 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 10.9873ms

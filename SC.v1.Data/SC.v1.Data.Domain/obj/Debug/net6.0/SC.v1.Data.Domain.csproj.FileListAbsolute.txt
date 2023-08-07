@@ -1,0 +1,14 @@
+C:\document\repos\SC.v1\SC.v1.Data\SC.v1.Data.Domain\bin\Debug\net6.0\SC.v1.Data.Domain.deps.json
+C:\document\repos\SC.v1\SC.v1.Data\SC.v1.Data.Domain\bin\Debug\net6.0\SC.v1.Data.Domain.runtimeconfig.json
+C:\document\repos\SC.v1\SC.v1.Data\SC.v1.Data.Domain\bin\Debug\net6.0\SC.v1.Data.Domain.dll
+C:\document\repos\SC.v1\SC.v1.Data\SC.v1.Data.Domain\bin\Debug\net6.0\SC.v1.Data.Domain.pdb
+C:\document\repos\SC.v1\SC.v1.Data\SC.v1.Data.Domain\obj\Debug\net6.0\SC.v1.Data.Domain.csproj.AssemblyReference.cache
+C:\document\repos\SC.v1\SC.v1.Data\SC.v1.Data.Domain\obj\Debug\net6.0\SC.v1.Data.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\document\repos\SC.v1\SC.v1.Data\SC.v1.Data.Domain\obj\Debug\net6.0\SC.v1.Data.Domain.AssemblyInfoInputs.cache
+C:\document\repos\SC.v1\SC.v1.Data\SC.v1.Data.Domain\obj\Debug\net6.0\SC.v1.Data.Domain.AssemblyInfo.cs
+C:\document\repos\SC.v1\SC.v1.Data\SC.v1.Data.Domain\obj\Debug\net6.0\SC.v1.Data.Domain.csproj.CoreCompileInputs.cache
+C:\document\repos\SC.v1\SC.v1.Data\SC.v1.Data.Domain\obj\Debug\net6.0\SC.v1.Data.Domain.dll
+C:\document\repos\SC.v1\SC.v1.Data\SC.v1.Data.Domain\obj\Debug\net6.0\refint\SC.v1.Data.Domain.dll
+C:\document\repos\SC.v1\SC.v1.Data\SC.v1.Data.Domain\obj\Debug\net6.0\SC.v1.Data.Domain.pdb
+C:\document\repos\SC.v1\SC.v1.Data\SC.v1.Data.Domain\obj\Debug\net6.0\SC.v1.Data.Domain.genruntimeconfig.cache
+C:\document\repos\SC.v1\SC.v1.Data\SC.v1.Data.Domain\obj\Debug\net6.0\ref\SC.v1.Data.Domain.dll

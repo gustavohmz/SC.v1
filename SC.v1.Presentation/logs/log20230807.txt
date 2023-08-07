@@ -1,0 +1,96 @@
+2023-08-07 01:20:18.603 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-07 01:20:18.634 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-07 01:20:18.642 -05:00 [INF] Hosting environment: Development
+2023-08-07 01:20:18.644 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-07 01:20:19.009 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-07 01:20:19.009 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 364.2828ms
+2023-08-07 01:20:19.014 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-07 01:20:19.021 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 8.9375ms
+2023-08-07 01:20:19.085 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 70.9882ms
+2023-08-07 01:20:19.158 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-07 01:20:19.447 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 288.1002ms
+2023-08-07 01:21:05.187 -05:00 [INF] Request starting HTTP/2 POST https://localhost:44389/api/SignUp application/json 66
+2023-08-07 01:21:05.198 -05:00 [INF] CORS policy execution successful.
+2023-08-07 01:21:05.206 -05:00 [INF] Executing endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-07 01:21:05.240 -05:00 [INF] Route matched with {action = "SignUpUser", controller = "SignUp"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] SignUpUser(SC.v1.Core.DTOs.Requests.SignUpRequestDto) on controller SC.v1.Presentation.Controllers.SignUpController (SC.v1.Presentation).
+2023-08-07 01:21:06.680 -05:00 [INF] Executed DbCommand (25ms) [Parameters=[@__username_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.user_id, u.company_id, u.password_hash, u.user_role_id, u.user_name
+FROM users AS u
+WHERE u.user_name = @__username_0
+LIMIT 1
+2023-08-07 01:21:06.842 -05:00 [INF] Executing ObjectResult, writing value of type 'SC.v1.Core.Ports.WebApiPort`1[[SC.v1.Core.DTOs.Responses.SignUpResponseDto, SC.v1.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-08-07 01:21:06.865 -05:00 [INF] Executed action SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation) in 1620.9049ms
+2023-08-07 01:21:06.866 -05:00 [INF] Executed endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-07 01:21:06.874 -05:00 [INF] Request finished HTTP/2 POST https://localhost:44389/api/SignUp application/json 66 - 500 - application/json;+charset=utf-8 1688.1794ms
+2023-08-07 01:26:16.315 -05:00 [INF] Request starting HTTP/2 POST https://localhost:44389/api/SignUp application/json 67
+2023-08-07 01:26:16.317 -05:00 [INF] CORS policy execution successful.
+2023-08-07 01:26:16.318 -05:00 [INF] Executing endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-07 01:26:16.345 -05:00 [INF] Route matched with {action = "SignUpUser", controller = "SignUp"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] SignUpUser(SC.v1.Core.DTOs.Requests.SignUpRequestDto) on controller SC.v1.Presentation.Controllers.SignUpController (SC.v1.Presentation).
+2023-08-07 01:26:16.441 -05:00 [INF] Executed DbCommand (5ms) [Parameters=[@__username_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.user_id, u.company_id, u.password_hash, u.user_role_id, u.user_name
+FROM users AS u
+WHERE u.user_name = @__username_0
+LIMIT 1
+2023-08-07 01:26:16.714 -05:00 [INF] Executing ObjectResult, writing value of type 'SC.v1.Core.Ports.WebApiPort`1[[SC.v1.Core.DTOs.Responses.SignUpResponseDto, SC.v1.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-08-07 01:26:16.716 -05:00 [INF] Executed action SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation) in 370.4468ms
+2023-08-07 01:26:16.716 -05:00 [INF] Executed endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-07 01:26:16.716 -05:00 [INF] Request finished HTTP/2 POST https://localhost:44389/api/SignUp application/json 67 - 500 - application/json;+charset=utf-8 401.2881ms
+2023-08-07 01:27:22.800 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-07 01:27:22.824 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-07 01:27:22.842 -05:00 [INF] Hosting environment: Development
+2023-08-07 01:27:22.844 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-07 01:27:23.138 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-07 01:27:23.139 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 318.5803ms
+2023-08-07 01:27:23.145 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 3.5306ms
+2023-08-07 01:27:23.154 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-07 01:27:23.194 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 39.2574ms
+2023-08-07 01:27:23.262 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-07 01:27:23.469 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 205.3062ms
+2023-08-07 01:27:51.015 -05:00 [INF] Request starting HTTP/2 POST https://localhost:44389/api/SignUp application/json 68
+2023-08-07 01:27:51.045 -05:00 [INF] CORS policy execution successful.
+2023-08-07 01:27:51.049 -05:00 [INF] Executing endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-07 01:27:51.068 -05:00 [INF] Route matched with {action = "SignUpUser", controller = "SignUp"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] SignUpUser(SC.v1.Core.DTOs.Requests.SignUpRequestDto) on controller SC.v1.Presentation.Controllers.SignUpController (SC.v1.Presentation).
+2023-08-07 01:27:56.814 -05:00 [INF] Executed DbCommand (30ms) [Parameters=[@__username_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.user_id, u.company_id, u.password_hash, u.user_role_id, u.user_name
+FROM users AS u
+WHERE u.user_name = @__username_0
+LIMIT 1
+2023-08-07 10:35:01.332 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-07 10:35:01.390 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-07 10:35:01.399 -05:00 [INF] Hosting environment: Development
+2023-08-07 10:35:01.401 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-07 10:35:01.873 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-07 10:35:01.875 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 488.3423ms
+2023-08-07 10:35:01.882 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 4.3741ms
+2023-08-07 10:35:01.904 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-07 10:35:02.003 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 98.4354ms
+2023-08-07 10:35:02.063 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-07 10:35:02.202 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 139.2088ms
+2023-08-07 11:14:19.275 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-07 11:14:19.297 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/index.html - -
+2023-08-07 11:14:19.303 -05:00 [INF] Hosting environment: Development
+2023-08-07 11:14:19.306 -05:00 [INF] Content root path: C:\document\repos\SC.v1\SC.v1.Presentation
+2023-08-07 11:14:19.576 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - -
+2023-08-07 11:14:19.577 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/index.html - - - 200 - text/html;charset=utf-8 280.5364ms
+2023-08-07 11:14:19.583 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 3.4656ms
+2023-08-07 11:14:19.595 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/_vs/browserLink - -
+2023-08-07 11:14:19.641 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 46.1524ms
+2023-08-07 11:14:19.702 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - -
+2023-08-07 11:14:19.832 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44389/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 129.6132ms
+2023-08-07 11:14:37.311 -05:00 [INF] Request starting HTTP/2 POST https://localhost:44389/api/SignUp application/json 67
+2023-08-07 11:14:37.318 -05:00 [INF] CORS policy execution successful.
+2023-08-07 11:14:37.326 -05:00 [INF] Executing endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-07 11:14:37.357 -05:00 [INF] Route matched with {action = "SignUpUser", controller = "SignUp"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] SignUpUser(SC.v1.Core.DTOs.Requests.SignUpRequestDto) on controller SC.v1.Presentation.Controllers.SignUpController (SC.v1.Presentation).
+2023-08-07 11:14:38.922 -05:00 [INF] Executed DbCommand (46ms) [Parameters=[@__username_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.user_id, u.company_id, u.password_hash, u.user_role_id, u.user_name
+FROM users AS u
+WHERE u.user_name = @__username_0
+LIMIT 1
+2023-08-07 11:14:39.326 -05:00 [INF] Executed DbCommand (59ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?', @p2='?' (DbType = Int32), @p3='?'], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO users (company_id, password_hash, user_role_id, user_name)
+VALUES (@p0, @p1, @p2, @p3)
+RETURNING user_id;
+2023-08-07 11:14:39.356 -05:00 [INF] Executing ObjectResult, writing value of type 'SC.v1.Core.Ports.WebApiPort`1[[SC.v1.Core.DTOs.Responses.SignUpResponseDto, SC.v1.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-08-07 11:14:39.375 -05:00 [INF] Executed action SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation) in 2013.8785ms
+2023-08-07 11:14:39.375 -05:00 [INF] Executed endpoint 'SC.v1.Presentation.Controllers.SignUpController.SignUpUser (SC.v1.Presentation)'
+2023-08-07 11:14:39.381 -05:00 [INF] Request finished HTTP/2 POST https://localhost:44389/api/SignUp application/json 67 - 200 - application/json;+charset=utf-8 2069.8433ms

@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SC.v1.Presentation</name>
+    </assembly>
+    <members>
+        <member name="T:CDP.WebApi.Configuration.Common.CountryConfiguration">
+            <summary>
+            Clase que representa la configuración de un país.
+            </summary>
+        </member>
+        <member name="P:CDP.WebApi.Configuration.Common.CountryConfiguration.SupportedCountry">
+            <summary>
+            Obtiene o establece el país soportado.
+            </summary>
+        </member>
+        <member name="T:SC.v1.Presentation.Configuration.Filters.ProducesResponseHeaderAttribute">
+            <summary>
+            Atributo personalizado que indica que el controlador o acción produce una cabecera de respuesta específica.
+            </summary>
+        </member>
+        <member name="P:SC.v1.Presentation.Configuration.Filters.ProducesResponseHeaderAttribute.Name">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SC.v1.Presentation.Configuration.Filters.ProducesResponseHeaderAttribute.StatusCode">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SC.v1.Presentation.Configuration.Filters.ProducesResponseHeaderAttribute.Type">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SC.v1.Presentation.Configuration.Filters.ProducesResponseHeaderAttribute.Description">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SC.v1.Presentation.Configuration.Filters.ProducesResponseHeaderAttribute.#ctor(System.String,System.Int32,System.Type,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="name"></param>
+            <param name="statusCode"></param>
+            <param name="type"></param>
+            <param name="description"></param>
+        </member>
+        <member name="T:SC.v1.Presentation.Configuration.Filters.ResponseHeadersOperationFilter">
+            <summary>
+            Filtro personalizado para agregar encabezados de respuesta a la documentación de Swagger.
+            </summary>
+        </member>
+        <member name="M:SC.v1.Presentation.Configuration.Filters.ResponseHeadersOperationFilter.Apply(Microsoft.OpenApi.Models.OpenApiOperation,Swashbuckle.AspNetCore.SwaggerGen.OperationFilterContext)">
+            <summary>
+            Método para aplicar el filtro a la operación Swagger.
+            </summary>
+            <param name="operation">La operación Swagger a la que se aplicará el filtro.</param>
+            <param name="context">El contexto del filtro de operación.</param>
+        </member>
+        <member name="T:SC.v1.Presentation.Configuration.ServiceScopes.ServiceScopeCO">
+            <summary>
+            Clase que representa un ámbito de servicio personalizado para la inyección de dependencias.
+            </summary>
+        </member>
+        <member name="M:SC.v1.Presentation.Configuration.ServiceScopes.ServiceScopeCO.ConfigureAppCO(Microsoft.AspNetCore.Builder.WebApplicationBuilder)">
+            <summary>
+            Método para agregar y configurar servicios en el ámbito.
+            </summary>
+            <param name="builder">La colección de servicios a la que se agregarán los servicios configurados.</param>
+        </member>
+        <member name="T:SC.v1.Presentation.Configuration.ServiceScopes.ServiceScopeMX">
+            <summary>
+            Clase que representa el ámbito del servicio MX.
+            </summary>
+        </member>
+        <member name="M:SC.v1.Presentation.Configuration.ServiceScopes.ServiceScopeMX.ConfigureAppMX(Microsoft.AspNetCore.Builder.WebApplicationBuilder)">
+            <summary>
+            Configura los servicios relacionados con el servicio MX en la aplicación web.
+            </summary>
+            <param name="builder">Constructor de la aplicación web.</param>
+        </member>
+        <member name="T:SC.v1.Presentation.Controllers.SignUpController">
+            <summary>
+            Controlador para manejar las solicitudes relacionadas con el registro de usuarios.
+            </summary>
+        </member>
+        <member name="M:SC.v1.Presentation.Controllers.SignUpController.#ctor(Microsoft.Extensions.Logging.ILogger{SC.v1.Presentation.Controllers.SignUpController},SC.v1.Core.Implementations.Commands.ISignUp)">
+            <summary>
+            Constructor del controlador SignUpController.
+            </summary>
+            <param name="logger">Instancia del logger.</param>
+            <param name="signUp">Instancia de ISignUp para el registro de usuarios.</param>
+        </member>
+        <member name="M:SC.v1.Presentation.Controllers.SignUpController.SignUpUser(SC.v1.Core.DTOs.Requests.SignUpRequestDto)">
+             <summary>
+             Crea un nuevo usuario.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /api/SignUp
+                 {
+                    "userName": "john.doe",
+                    "password": "mysecretpassword",
+                    "roleId": 0
+                 }
+             </remarks>
+             <param name="request">Datos del nuevo usuario.</param>
+             <returns>Detalles del usuario creado.</returns>
+             <response code="200">Operación exitosa. Retorna los detalles del usuario creado.</response>
+             <response code="400">Solicitud incorrecta. Puede ocurrir si falta algún dato requerido en la solicitud.</response>
+             <response code="500">Error interno del servidor. Puede ocurrir si ocurre un error durante el proceso de creación del usuario.</response>
+        </member>
+    </members>
+</doc>
