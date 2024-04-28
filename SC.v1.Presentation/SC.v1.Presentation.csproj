@@ -24,7 +24,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SC.v1.Core\SC.v1.Core.csproj" />
-    <ProjectReference Include="..\SC.v1.Common\SC.v1.Common.csproj" />
     <ProjectReference Include="..\SC.v1.Data\SC.v1.Data.Persistence\SC.v1.Data.Persistence.csproj" />
   </ItemGroup>
 

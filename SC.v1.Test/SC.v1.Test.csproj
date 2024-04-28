@@ -22,8 +22,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\SC.v1.Common\SC.v1.Common.csproj" />
-  </ItemGroup>
-
 </Project>
